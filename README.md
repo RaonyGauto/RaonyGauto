@@ -7,4 +7,4 @@
 
 ---
 
-[![Pyhon](https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg)]
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)
