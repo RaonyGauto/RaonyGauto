@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Raony.✌
 
-- 🔭 Atualmente estou fazendo transição de carreira.
-- 🌱 Estou estudando Ciência de Dados.
+- 🔭 Data Science and Analytics.
+- 🌱 Constante aprendizado em Ciência de Dados.
 - 👯 Procuro colaborar com pessoas da DS.
 - ⚡ Curiosidades: Gosto de futebol, games e estudar.
 ---
